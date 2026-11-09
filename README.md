@@ -38,6 +38,7 @@ All 8 problems must be written inside `solutions.ts`:
 
 ### 2. Technical Blogs (2 Posts - 10 Marks)
 Each blog post must be written in its own Markdown file (`[blog-name].md`), structured with Title, Introduction, Body with Code Examples, and Conclusion (150–300 words each):
-- `type-vs-interface.md`
-- `type-narrowing.md`
 
+**Blog Language:**
+- `type-vs-interface.md`: Bangla
+- `type-narrowing.md`: English
