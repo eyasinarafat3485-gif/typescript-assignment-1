@@ -42,3 +42,8 @@ Each blog post must be written in its own Markdown file (`[blog-name].md`), stru
 **Blog Language:**
 - `type-vs-interface.md`: Bangla
 - `type-narrowing.md`: English
+
+## Blog Posts
+
+1. [Type vs Interface (Bangla)](./type-vs-interface.md)
+2. [Type Narrowing (English)](./type-narrowing.md)
